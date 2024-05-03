@@ -24,4 +24,4 @@ Self-taught backend developer located in Sweden 🇸🇪
 Network technology | Linux (Debian/Arch) | Computer hardware
 
 
-[![Tjabooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tjabooo)](https://github.com/anuraghazra/github-readme-stats)
+[![Tjabooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tjabooo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
