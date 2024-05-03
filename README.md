@@ -1,16 +1,16 @@
-### Hi there 👋
+![alt text](https://github.com/Tjabooo/Tjabooo/blob/main/backdrop.jpg?raw=true)
 
-<!--
-**Tjabooo/Tjabooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello! I'm Tjabo, also known as Isidor 😄
+Self-taught backend developer located in Sweden 🇸🇪
 
-Here are some ideas to get you started:
+### About me
+- 📖 Studying
+- 🌱 Currently learning Rust and Entity-Component-System
+- 📫 How to reach me: Discord @tjaboobs
+- ⚡ Fun fact: I play VALORANT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+Python, JavaScript (NodeJS), C#, Rust, Java
+Network technology
+Linux (Debian/Arch)
+Computer hardware
