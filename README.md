@@ -20,6 +20,8 @@ Self-taught backend developer located in Sweden 🇸🇪
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 </div>
+
 Network technology | Linux (Debian/Arch) | Computer hardware
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tjabooo&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Tjabooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tjabooo)](https://github.com/anuraghazra/github-readme-stats)
