@@ -10,7 +10,4 @@ Self-taught backend developer located in Sweden 🇸🇪
 - ⚡ Fun fact: I play VALORANT
 
 ### Skills
-Python, JavaScript (NodeJS), C#, Rust, Java
-Network technology
-Linux (Debian/Arch)
-Computer hardware
+Python, JavaScript (NodeJS), C#, Rust, Java | Network technology | Linux (Debian/Arch) | Computer hardware
