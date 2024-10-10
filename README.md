@@ -1,4 +1,4 @@
-![alt text](https://github.com/Tjabooo/Tjabooo/blob/main/backdrop.jpg?raw=true)
+![alt text](https://github.com/Tjabooo/Tjabooo/blob/main/xmascat.png?raw=true)
 
 ### hii, i'm tjabo
 self-taught full-stack (kind of) developer located in sweden 🇸🇪
