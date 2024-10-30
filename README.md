@@ -1,6 +1,6 @@
 ![alt text](https://github.com/Tjabooo/Tjabooo/blob/main/xmascat.png?raw=true)
 
-### hii, i'm tjabo
+### hi, i'm tjabo
 self-taught full-stack (kind of) developer located in sweden 🇸🇪
 
 ### About me
