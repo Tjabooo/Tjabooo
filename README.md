@@ -1,4 +1,4 @@
-![alt text](https://github.com/Tjabooo/Tjabooo/blob/main/xmascat.png?raw=true)
+![alt text](https://github.com/Tjabooo/Tjabooo/blob/main/rice.png?raw=true)
 
 ### hi, i'm tjabo
 self-taught full-stack (kind of) developer located in sweden 🇸🇪
