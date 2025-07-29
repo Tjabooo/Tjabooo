@@ -6,7 +6,7 @@ self-taught full-stack (kind of) developer located in sweden 🇸🇪
 ### About me
 - 📖 in my 3rd year at stockholm science & innovation school
 - 🌱 currently improving: ML and AI systems + learning PHP
-- 📫 how to reach me: discord @tjaboobs
+- 📫 how to reach me: find me
 
 ### skills
 <div>
