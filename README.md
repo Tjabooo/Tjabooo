@@ -5,7 +5,7 @@ self-taught full-stack (kind of) developer located in sweden 🇸🇪
 
 ### About me
 - 📖 in my 1st year at KTH doing my BSc in ICT
-- 🌱 currently improving: ML and AI systems + learning PHP
+- 🌱 currently improving: learning java i guess
 - 📫 how to reach me: find me
 
 ### skills
