@@ -5,7 +5,7 @@ self-taught full-stack (kind of) developer located in sweden 🇸🇪
 
 ### About me
 - 📖 first year ict undergraduate at kth, stockholm
-- 🌱 currently improving: learning java i guess
+- 🌱 currently learning: java
 - 📫 how to reach me: find me
 
 ### skills
