@@ -38,7 +38,7 @@ my own clipping tool, and making linux gaming feel as good as it looks
 
 <img src="assets/h-more.svg" alt="smaller things" width="100%">
 
-| | |
+| project | what it does |
 | --- | --- |
 | [**audition**](https://github.com/Tjabooo/audition) | "keep these changes?" for config files: a hyprland/waybar tweak reverts itself unless you keep it |
 | [**steam-gamemode-all**](https://github.com/Tjabooo/steam-gamemode-all) | every steam game on feral gamemode, launch options kept |

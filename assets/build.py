@@ -184,11 +184,12 @@ def fleet():
 
 # ---------- section headings ----------
 def heading(slug, text):
+    """Section titles sit on GitHub's own background, so they use mid tones that read in light and dark."""
     W, H = 900, 44
     save(f"h-{slug}.svg", f"""
 <svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="{text}">
-  <text x="0" y="29" font-family="{FONT}" font-size="20" font-weight="800" fill="{ORANGE}">~/<tspan fill="{FG}">{escape(text)}</tspan></text>
-  <line x1="{40 + len(text) * 12.5:.0f}" y1="22" x2="{W}" y2="22" stroke="{LINE}" stroke-dasharray="2 6"/>
+  <text x="0" y="29" font-family="{FONT}" font-size="20" font-weight="800" fill="{ORANGE}">~/<tspan fill="#d9731c">{escape(text)}</tspan></text>
+  <line x1="{40 + len(text) * 12.5:.0f}" y1="22" x2="{W}" y2="22" stroke="#b5835a" stroke-opacity=".55" stroke-dasharray="2 6"/>
 </svg>""")
 
 
