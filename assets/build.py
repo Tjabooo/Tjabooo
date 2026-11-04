@@ -44,7 +44,7 @@ PROJECTS = [
 FLEET = [
     ("magi", "desktop", ["arch · hyprland (ember)", "ryzen 7 9800x3d", "radeon rx 9070 xt", "240 hz oled + 144 hz"]),
     ("unit-01", "laptop", ["arch · hyprland (neon)", "zenbook s 16", "ryzen ai 9 hx 370", "radeon 890m"]),
-    ("homeserverino", "server", ["windows 11", "i5-14600kf · gtx 1650", "runs marquee", "media · clips · backups"]),
+    ("geofront", "server", ["windows 11", "i5-14600kf · gtx 1650", "runs marquee", "media · clips · backups"]),
 ]
 
 

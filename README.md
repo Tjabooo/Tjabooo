@@ -50,7 +50,7 @@ my own clipping tool, and making linux gaming feel as good as it looks
 
 <img src="assets/h-fleet.svg" alt="the fleet" width="100%">
 
-<img src="assets/fleet.svg" alt="magi (desktop), unit-01 (laptop), homeserverino (server)" width="100%">
+<img src="assets/fleet.svg" alt="magi (desktop), unit-01 (laptop), geofront (server)" width="100%">
 
 <img src="assets/h-stack.svg" alt="stack" width="100%">
 
