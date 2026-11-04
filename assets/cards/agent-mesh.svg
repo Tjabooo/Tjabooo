@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="150" viewBox="0 0 440 150" role="img" aria-label="agent-mesh">
+  <style>
+    .n { font: 800 19px 'JetBrains Mono','JetBrainsMono Nerd Font','SF Mono',ui-monospace,Menlo,Consolas,monospace; fill: #ff8c1a; }
+    .d { font: 13px 'JetBrains Mono','JetBrainsMono Nerd Font','SF Mono',ui-monospace,Menlo,Consolas,monospace; fill: #d8cbbf; }
+    .l { font: 12px 'JetBrains Mono','JetBrainsMono Nerd Font','SF Mono',ui-monospace,Menlo,Consolas,monospace; fill: #7a675a; }
+    .t { font: 11px 'JetBrains Mono','JetBrainsMono Nerd Font','SF Mono',ui-monospace,Menlo,Consolas,monospace; fill: #7a675a; }
+  </style>
+  <rect x=".5" y=".5" width="439" height="149" rx="10" fill="#1a130f" stroke="#3a2c22"/>
+  <rect x="0" y="12" width="3" height="126" rx="1.5" fill="#ff8c1a"/>
+  <text x="24" y="38" class="n">agent-mesh</text>
+  <text x="416" y="38" class="l" text-anchor="end">→</text>
+  <text x="24" y="70" class="d">one brain for claude code and codex across all my</text><text x="24" y="89" class="d">machines: shared instructions, memory and</text><text x="24" y="108" class="d">settings through a git repo.</text>
+  <circle cx="30" cy="131" r="5" fill="#4b8bbe"/>
+  <text x="42" y="135" class="l">Python</text>
+  <rect x="105" y="122" width="81" height="18" rx="9" fill="none" stroke="#3a2c22"/><text x="145" y="135" class="t" text-anchor="middle">ai agents</text><rect x="192" y="122" width="38" height="18" rx="9" fill="none" stroke="#3a2c22"/><text x="210" y="135" class="t" text-anchor="middle">git</text>
+</svg>

@@ -1,29 +1,66 @@
-![alt text](https://github.com/Tjabooo/Tjabooo/blob/main/rice.png?raw=true)
+<div align="center">
 
-### hi, i'm tjabo
-self-taught full-stack (kind of) developer located in sweden 🇸🇪
+<img src="assets/banner.svg" alt="tjabo: self-taught dev · stockholm, sweden" width="100%">
 
-### About me
-- 📖 first year ict undergraduate at kth, stockholm
-- 🌱 currently learning: java
-- 📫 how to reach me: find me
+<br>
 
-### skills
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CS"  alt="CS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust"  alt="Rust" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+<a href="https://tjabo.dev"><img src="https://img.shields.io/badge/tjabo.dev-1a130f?style=for-the-badge&logo=googlechrome&logoColor=ff8c1a&labelColor=120d0a" alt="tjabo.dev"></a>
+<img src="https://img.shields.io/badge/stockholm,_sweden-1a130f?style=for-the-badge&logo=openstreetmap&logoColor=ff8c1a&labelColor=120d0a" alt="stockholm, sweden">
+<img src="https://img.shields.io/badge/arch_btw-1a130f?style=for-the-badge&logo=archlinux&logoColor=ff8c1a&labelColor=120d0a" alt="arch btw">
+
 </div>
 
-network technology | linux (debian/arch) | computer hardware
+```sh
+~ ❯ whoami
+tjabo · self-taught developer from stockholm 🇸🇪
+kth ict dropout · i build the tools i use every day
+~ ❯ cat now.txt
+a self-hosted media server for friends & family, a dashboard for my three machines,
+my own clipping tool, and making linux gaming feel as good as it looks
+```
 
+<img src="assets/h-rice.svg" alt="rice" width="100%">
 
-[![Tjabooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tjabooo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<a href="assets/rice-magi.png"><img src="assets/rice-magi.png" alt="ember: my hyprland rice on magi" width="100%"></a>
+
+<sub>**ember** on magi: hyprland · waybar · alacritty · nvim (`ember-latency`'s vulkan layer) · marquee's git log · fastfetch · archfleet</sub>
+
+<img src="assets/h-projects.svg" alt="projects" width="100%">
+
+<p>
+<a href="https://github.com/Tjabooo/marquee"><img src="assets/cards/marquee.svg" alt="marquee" width="49%"></a>
+<a href="https://github.com/Tjabooo/archfleet"><img src="assets/cards/archfleet.svg" alt="archfleet" width="49%"></a>
+<a href="https://github.com/Tjabooo/clipper"><img src="assets/cards/clipper.svg" alt="clipper" width="49%"></a>
+<a href="https://github.com/Tjabooo/ember-latency"><img src="assets/cards/ember-latency.svg" alt="ember-latency" width="49%"></a>
+<a href="https://github.com/Tjabooo/agent-mesh"><img src="assets/cards/agent-mesh.svg" alt="agent-mesh" width="49%"></a>
+<a href="https://github.com/Tjabooo/cs2-presence"><img src="assets/cards/cs2-presence.svg" alt="cs2-presence" width="49%"></a>
+</p>
+
+<img src="assets/h-more.svg" alt="smaller things" width="100%">
+
+| | |
+| --- | --- |
+| [**audition**](https://github.com/Tjabooo/audition) | "keep these changes?" for config files: a hyprland/waybar tweak reverts itself unless you keep it |
+| [**steam-gamemode-all**](https://github.com/Tjabooo/steam-gamemode-all) | every steam game on feral gamemode, launch options kept |
+| [**codex-ssh-windows**](https://github.com/Tjabooo/codex-ssh-windows) | a windows pc as an ssh host for the codex desktop app |
+| [**dotfiles**](https://github.com/Tjabooo/dotfiles) | **neon**, the laptop's hyprland rice (midnight purple, the sibling of ember) |
+| [**bevy-fps-shooter**](https://github.com/Tjabooo/bevy-fps-shooter) | fps-style target practice in rust + bevy |
+| [**Tailcord**](https://github.com/Tjabooo/Tailcord) | device status in your discord bio through tailscale |
+| [**tjabo.dev**](https://github.com/Tjabooo/tjabo.dev) | my site |
+
+<img src="assets/h-fleet.svg" alt="the fleet" width="100%">
+
+<img src="assets/fleet.svg" alt="magi (desktop), unit-01 (laptop), homeserverino (server)" width="100%">
+
+<img src="assets/h-stack.svg" alt="stack" width="100%">
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,cs,js,nodejs,rust,java,lua,bash,powershell&theme=dark" alt="python, c, c#, javascript, node, rust, java, lua, bash, powershell"><br><br>
+<img src="https://skillicons.dev/icons?i=arch,linux,windows,neovim,git,cloudflare&theme=dark" alt="arch, linux, windows, neovim, git, cloudflare">
+</p>
+
+<img src="assets/h-stats.svg" alt="stats" width="100%">
+
+<img src="assets/stats.svg" alt="github stats" width="100%">
+
+<div align="center"><sub>cards and banner are hand-made svgs (<code>assets/build.py</code>), refreshed daily by a workflow</sub></div>

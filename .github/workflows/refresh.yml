@@ -1,0 +1,26 @@
+name: refresh profile stats
+on:
+  schedule:
+    - cron: "17 4 * * *"   # daily
+  workflow_dispatch:
+  push:
+    paths: ["assets/build.py"]
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python3 assets/build.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: |
+          git add assets
+          git diff --cached --quiet && exit 0
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+            commit -m "chore: refresh profile stats"
+          git push
