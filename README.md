@@ -28,25 +28,25 @@ my own clipping tool, and making linux gaming feel as good as it looks
 <img src="assets/h-projects.svg" alt="projects" width="100%">
 
 <p>
-<a href="https://github.com/Tjabooo/marquee"><img src="assets/cards/marquee.svg" alt="marquee" width="49%"></a>
-<a href="https://github.com/Tjabooo/archfleet"><img src="assets/cards/archfleet.svg" alt="archfleet" width="49%"></a>
-<a href="https://github.com/Tjabooo/clipper"><img src="assets/cards/clipper.svg" alt="clipper" width="49%"></a>
-<a href="https://github.com/Tjabooo/ember-latency"><img src="assets/cards/ember-latency.svg" alt="ember-latency" width="49%"></a>
-<a href="https://github.com/Tjabooo/agent-mesh"><img src="assets/cards/agent-mesh.svg" alt="agent-mesh" width="49%"></a>
-<a href="https://github.com/Tjabooo/cs2-presence"><img src="assets/cards/cs2-presence.svg" alt="cs2-presence" width="49%"></a>
+<a href="https://tjabo.dev/projects/marquee"><img src="assets/cards/marquee.svg" alt="marquee" width="49%"></a>
+<a href="https://tjabo.dev/projects/archfleet"><img src="assets/cards/archfleet.svg" alt="archfleet" width="49%"></a>
+<a href="https://tjabo.dev/projects/clipper"><img src="assets/cards/clipper.svg" alt="clipper" width="49%"></a>
+<a href="https://tjabo.dev/projects/ember-latency"><img src="assets/cards/ember-latency.svg" alt="ember-latency" width="49%"></a>
+<a href="https://tjabo.dev/projects/agent-mesh"><img src="assets/cards/agent-mesh.svg" alt="agent-mesh" width="49%"></a>
+<a href="https://tjabo.dev/projects/cs2-presence"><img src="assets/cards/cs2-presence.svg" alt="cs2-presence" width="49%"></a>
 </p>
 
 <img src="assets/h-more.svg" alt="smaller things" width="100%">
 
 | project | what it does |
 | --- | --- |
-| [**audition**](https://github.com/Tjabooo/audition) | "keep these changes?" for config files: a hyprland/waybar tweak reverts itself unless you keep it |
-| [**steam-gamemode-all**](https://github.com/Tjabooo/steam-gamemode-all) | every steam game on feral gamemode, launch options kept |
-| [**codex-ssh-windows**](https://github.com/Tjabooo/codex-ssh-windows) | a windows pc as an ssh host for the codex desktop app |
-| [**dotfiles**](https://github.com/Tjabooo/dotfiles) | **neon**, the laptop's hyprland rice (midnight purple, the sibling of ember) |
-| [**bevy-fps-shooter**](https://github.com/Tjabooo/bevy-fps-shooter) | fps-style target practice in rust + bevy |
-| [**Tailcord**](https://github.com/Tjabooo/Tailcord) | device status in your discord bio through tailscale |
-| [**tjabo.dev**](https://github.com/Tjabooo/tjabo.dev) | my site |
+| [**audition**](https://tjabo.dev/projects/audition) | "keep these changes?" for config files: a hyprland/waybar tweak reverts itself unless you keep it |
+| [**steam-gamemode-all**](https://tjabo.dev/projects/steam-gamemode-all) | every steam game on feral gamemode, launch options kept |
+| [**codex-ssh-windows**](https://tjabo.dev/projects/codex-ssh-windows) | a windows pc as an ssh host for the codex desktop app |
+| [**dotfiles**](https://tjabo.dev/projects/dotfiles) | **neon**, the laptop's hyprland rice (midnight purple, the sibling of ember) |
+| [**bevy-fps-shooter**](https://tjabo.dev/projects/bevy-fps-shooter) | fps-style target practice in rust + bevy |
+| [**Tailcord**](https://tjabo.dev/projects/Tailcord) | device status in your discord bio through tailscale |
+| [**tjabo.dev**](https://tjabo.dev/projects/tjabo.dev) | my site |
 
 <img src="assets/h-fleet.svg" alt="the fleet" width="100%">
 
