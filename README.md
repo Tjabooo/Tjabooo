@@ -23,12 +23,12 @@ my own clipping tool, and making linux gaming feel as good as it looks
 
 <a href="assets/rice-magi.png"><img src="assets/rice-magi.png" alt="ember: my hyprland rice on magi" width="100%"></a>
 
-<sub>**ember** on magi: hyprland · waybar · alacritty · nvim (`ember-latency`'s vulkan layer) · marquee's git log · fastfetch · archfleet</sub>
+<sub>**ember** on magi: hyprland · waybar · alacritty · nvim (`ember-latency`'s vulkan layer) · lilin's git log · fastfetch · archfleet</sub>
 
 <img src="assets/h-projects.svg" alt="projects" width="100%">
 
 <p>
-<a href="https://tjabo.dev/projects/marquee"><img src="assets/cards/marquee.svg" alt="marquee" width="49%"></a>
+<a href="https://tjabo.dev/projects/lilin"><img src="assets/cards/lilin.svg" alt="lilin" width="49%"></a>
 <a href="https://tjabo.dev/projects/archfleet"><img src="assets/cards/archfleet.svg" alt="archfleet" width="49%"></a>
 <a href="https://tjabo.dev/projects/clipper"><img src="assets/cards/clipper.svg" alt="clipper" width="49%"></a>
 <a href="https://tjabo.dev/projects/ember-latency"><img src="assets/cards/ember-latency.svg" alt="ember-latency" width="49%"></a>

@@ -21,7 +21,7 @@ LANG = {"JavaScript": "#f1e05a", "Python": "#4b8bbe", "C#": "#3fb950", "C": "#a8
         "Lua": "#7a8cff", "PHP": "#a074c4"}
 
 PROJECTS = [
-    ("marquee", "JavaScript", "self-hosted, phone-first media server: discover, download, subtitles, "
+    ("lilin", "JavaScript", "self-hosted, phone-first media server: discover, download, subtitles, "
      "watch together, cast to TVs, game clips with share links. one node process, zero deps.",
      ["node", "ffmpeg", "homelab"]),
     ("archfleet", "Python", "terminal dashboard for every machine at home over plain ssh: status, wake-on-lan, "
@@ -44,7 +44,7 @@ PROJECTS = [
 FLEET = [
     ("magi", "desktop", ["arch · hyprland (ember)", "ryzen 7 9800x3d", "radeon rx 9070 xt", "240 hz oled + 144 hz"]),
     ("unit-01", "laptop", ["arch · hyprland (neon)", "zenbook s 16", "ryzen ai 9 hx 370", "radeon 890m"]),
-    ("geofront", "server", ["windows 11", "i5-14600kf · gtx 1650", "runs marquee", "media · clips · backups"]),
+    ("geofront", "server", ["windows 11", "i5-14600kf · gtx 1650", "runs lilin", "media · clips · backups"]),
 ]
 
 
