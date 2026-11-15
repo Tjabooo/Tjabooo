@@ -9,8 +9,8 @@
   <rect x="0" y="12" width="3" height="126" rx="1.5" fill="#ff8c1a"/>
   <text x="24" y="38" class="n">archfleet</text>
   <text x="416" y="38" class="l" text-anchor="end">→</text>
-  <text x="24" y="70" class="d">terminal dashboard for every machine at home over</text><text x="24" y="89" class="d">plain ssh: status, wake-on-lan, processes,</text><text x="24" y="108" class="d">hyprland, files, shared clipboards and arch</text>
-  <circle cx="30" cy="131" r="5" fill="#4b8bbe"/>
-  <text x="42" y="135" class="l">Python</text>
-  <rect x="105" y="122" width="66" height="18" rx="9" fill="none" stroke="#3a2c22"/><text x="138" y="135" class="t" text-anchor="middle">textual</text><rect x="177" y="122" width="38" height="18" rx="9" fill="none" stroke="#3a2c22"/><text x="196" y="135" class="t" text-anchor="middle">ssh</text><rect x="221" y="122" width="38" height="18" rx="9" fill="none" stroke="#3a2c22"/><text x="240" y="135" class="t" text-anchor="middle">tui</text>
+  <text x="24" y="70" class="d">one rust binary watching every machine at home</text><text x="24" y="89" class="d">over plain ssh: status, wake-on-lan, processes,</text><text x="24" y="108" class="d">hyprland, files, shared clipboards.</text>
+  <circle cx="30" cy="131" r="5" fill="#dea584"/>
+  <text x="42" y="135" class="l">Rust</text>
+  <rect x="89" y="122" width="66" height="18" rx="9" fill="none" stroke="#3a2c22"/><text x="122" y="135" class="t" text-anchor="middle">ratatui</text><rect x="162" y="122" width="38" height="18" rx="9" fill="none" stroke="#3a2c22"/><text x="180" y="135" class="t" text-anchor="middle">ssh</text><rect x="205" y="122" width="38" height="18" rx="9" fill="none" stroke="#3a2c22"/><text x="224" y="135" class="t" text-anchor="middle">tui</text>
 </svg>

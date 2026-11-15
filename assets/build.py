@@ -22,23 +22,23 @@ LANG = {"JavaScript": "#f1e05a", "Python": "#4b8bbe", "C#": "#3fb950", "C": "#a8
 
 PROJECTS = [
     ("lilin", "JavaScript", "self-hosted, phone-first media server: discover, download, subtitles, "
-     "watch together, cast to TVs, game clips with share links. one node process, zero deps.",
+     "watch together, cast to TVs, game clips. one node process, zero deps.",
      ["node", "ffmpeg", "homelab"]),
-    ("archfleet", "Python", "terminal dashboard for every machine at home over plain ssh: status, wake-on-lan, "
-     "processes, hyprland, files, shared clipboards and arch upkeep.",
-     ["textual", "ssh", "tui"]),
-    ("clipper", "C#", "medal / shadowplay replacement for linux and windows: always-on replay buffer, "
+    ("archfleet", "Rust", "one rust binary watching every machine at home over plain ssh: status, wake-on-lan, "
+     "processes, hyprland, files, shared clipboards.",
+     ["ratatui", "ssh", "tui"]),
+    ("clipper", "Rust", "medal / shadowplay replacement for linux and windows: always-on replay buffer, "
      "review queue, trimmer, clips straight to the home server.",
-     ["gpu-screen-recorder", "obs"]),
+     ["gpu-screen-recorder", "obs", "rust + c#"]),
     ("ember-latency", "C", "click-to-photon input latency for any vulkan game, right in mangohud. "
      "a tiny vulkan layer + mangohud patch, no fps cost.",
      ["vulkan", "mangohud", "linux gaming"]),
     ("agent-mesh", "Python", "one brain for claude code and codex across all my machines: shared "
      "instructions, memory and settings through a git repo.",
      ["ai agents", "git"]),
-    ("cs2-presence", "Python", "discord doesn't see native linux cs2. this does: 'playing counter-strike 2' "
-     "through discord's local rpc socket.",
-     ["discord rpc", "linux"]),
+    ("cs2-presence", "Rust", "discord doesn't see native linux cs2. this does: rich presence with map, "
+     "mode and live score from cs2's game state integration.",
+     ["discord rpc", "gsi", "linux"]),
 ]
 
 FLEET = [
