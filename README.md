@@ -7,6 +7,7 @@
 <a href="https://tjabo.dev"><img src="https://img.shields.io/badge/tjabo.dev-1a130f?style=for-the-badge&logo=googlechrome&logoColor=ff8c1a&labelColor=120d0a" alt="tjabo.dev"></a>
 <img src="https://img.shields.io/badge/stockholm,_sweden-1a130f?style=for-the-badge&logo=openstreetmap&logoColor=ff8c1a&labelColor=120d0a" alt="stockholm, sweden">
 <img src="https://img.shields.io/badge/arch_btw-1a130f?style=for-the-badge&logo=archlinux&logoColor=ff8c1a&labelColor=120d0a" alt="arch btw">
+<a href="https://ko-fi.com/tjabo"><img src="https://img.shields.io/badge/buy_me_a_coffee-1a130f?style=for-the-badge&logo=kofi&logoColor=ff8c1a&labelColor=120d0a" alt="buy me a coffee on ko-fi"></a>
 
 </div>
 
